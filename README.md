@@ -1,8 +1,8 @@
 # Discovering Association Rules in High-Dimensional Small Tabular Data
 
 This repository contains the experimental source code for the paper entitled "Discovering Association Rules in
-High-Dimensional Small Tabular Data", submitted to the 1st International Workshop on Advanced Neuro-Symbolic
-Applications.
+High-Dimensional Small Tabular Data", accepted at the [1st International Workshop on Advanced Neuro-Symbolic
+Applications](https://ansya-workshop.github.io/2025/) as part of the [European Conference on Artificial Intelligence 2025](https://ecai2025.org/).
 
 ---
 
