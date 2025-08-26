@@ -37,7 +37,7 @@ under [`src/data_preparation/discretization.py`](src/data_preparation/discretiza
 
 ## Baseline implementations
 
-- **Aerial+ [7]** is implemented using [PyAerial](https://github.com/DiTEC-project/pyaerial) library.
+- **Aerial+ [7]** is implemented using [PyAerial](https://github.com/DiTEC-project/pyaerial) [12] library.
 - **Fine-tuned versions of Aerial+**, as proposed in our paper, can be found
   in [`src/fine_tuned_aerial/model_double_loss_pretrained.py`](src/fine_tuned_aerial/model_double_loss_pretrained.py) (
   Aerial+DL) and
@@ -160,3 +160,6 @@ Intelligent Data Engineering and Automated Learning, pages 51–62. Springer, 20
 
 [11] N. Hollmann, S. Müller, L. Purucker, A. Krishnakumar, M. Körfer, S. B. Hoo, R. T. Schirrmeister, and F. Hutter.
 Accurate predictions on small data with a tabular foundation model. Nature, 637(8045):319–326, 2025.
+
+[12] E. Karabulut, P. Groth, and V. Degeler. Pyaerial: Scalable association rule mining from tabular data. https://ssrn.com/abstract=5356320,
+2025. Available at SSRN: https://ssrn.com/abstract=5356320 or http://dx.doi.org/10.2139/ssrn.5356320. Under review at SoftwareX journal. 
